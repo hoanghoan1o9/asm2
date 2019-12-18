@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\appg\appg\bin\Debug\appg.exe.config
+C:\Users\PC\source\repos\appg\appg\bin\Debug\appg.exe
+C:\Users\PC\source\repos\appg\appg\bin\Debug\appg.pdb
+C:\Users\PC\source\repos\appg\appg\obj\Debug\appg.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\appg\appg\obj\Debug\appg.Form1.resources
+C:\Users\PC\source\repos\appg\appg\obj\Debug\appg.Form2.resources
+C:\Users\PC\source\repos\appg\appg\obj\Debug\appg.Properties.Resources.resources
+C:\Users\PC\source\repos\appg\appg\obj\Debug\appg.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\appg\appg\obj\Debug\appg.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\appg\appg\obj\Debug\appg.exe
+C:\Users\PC\source\repos\appg\appg\obj\Debug\appg.pdb
